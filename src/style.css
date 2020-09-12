@@ -1,0 +1,41 @@
+body {
+  font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+  margin: 15px;
+}
+h1 {
+  margin: 0.5em auto 0.1em;
+  font-size: 50px;
+}
+h2 {
+  padding: 5%;
+}
+ul {
+  list-style-type: none;
+}
+footer {
+  font-size: x-small;
+}
+.location {
+  font-size: 50px;
+}
+.location-data {
+  padding: 2%;
+}
+.forcast {
+  padding: 3%;
+  font-size: 40px;
+}
+.unit {
+  font-size: 20px;
+  position: relative;
+  top: -45px;
+}
+#info {
+  font-size: 26px;
+}
+#suggestions {
+  padding: 10px;
+}
+#tempature {
+  font-size: 85px;
+}
